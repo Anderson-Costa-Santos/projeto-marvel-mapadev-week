@@ -24,3 +24,9 @@ Este projeto é inspirado na temática da Marvel e foi desenvolvido durante a **
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/Anderson-Costa-Santos/projeto-marvel-mapadev-week.git
+
+2. Abra o arquivo index.html no navegador ou use um servidor local (ex: Live Server do VS Code)
+
+🔗 Link do projeto
+
+https://anderson-costa-santos.github.io/projeto-marvel-mapadev-week/
